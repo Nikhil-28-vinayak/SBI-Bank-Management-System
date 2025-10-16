@@ -1,0 +1,9 @@
+*******Saving Account Holder List*******
+Full Name = nikhil
+Last Name = vinayak
+Phone No = 8556941539
+Aadharr = 445466545
+Pan card = 4544545455
+Account No = nikhil
+--------------------
+
