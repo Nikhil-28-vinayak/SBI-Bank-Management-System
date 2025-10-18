@@ -250,7 +250,7 @@ fun main() {
                 }
             }
         } else {
-            println("Wrong input try again!")
+            println("You enter wrong input!")
             println("you have only $i attempt")
             println("1. Creating Account\n2. Checking Account\n3. Withdrawn/Deposit")
             print("Choose an option(1, 2 or 3): ")
